@@ -1,4 +1,4 @@
-# WhiteSur Tweaked Theme
+# Classic Firefox Theme
 > A Firefox theme made to simulate the old look of this classic browser.
 
 ### Contributors
