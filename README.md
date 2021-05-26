@@ -3,7 +3,7 @@
 
 ### Contributors
 > - Theme made by [**Lubzz**](https://github.com/Lubzz).
-> - Published by [**TheGamerPro0013**](https://github.com/TheGamerPro0013).
+> - Published by [**Javier Latorre**](https://github.com/TheGamerPro0013).
 
 ### Screenshot
 > Not available at the moment.
